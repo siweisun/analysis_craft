@@ -1,0 +1,311 @@
+----------------------------
+Number of pairs : 2^22
+Round : 6
+Key: be1353a8328757207037f1dbcaa4b030
+The actual value of Key[1][12] is : b
+
+The value of counter :
+The counter corresponding to the guessed key value - 0 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 1 : Get 9 correct pairs
+The counter corresponding to the guessed key value - 2 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 3 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 4 : Get 6 correct pairs
+The counter corresponding to the guessed key value - 5 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 6 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 7 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 8 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 9 : Get 5 correct pairs
+The counter corresponding to the guessed key value - a : Get 0 correct pairs
+The counter corresponding to the guessed key value - b : Get 9 correct pairs
+The counter corresponding to the guessed key value - c : Get 6 correct pairs
+The counter corresponding to the guessed key value - d : Get 1 correct pairs
+The counter corresponding to the guessed key value - e : Get 5 correct pairs
+The counter corresponding to the guessed key value - f : Get 0 correct pairs
+
+----------------------------
+Number of pairs : 2^22
+Round : 6
+Key: 0bac75b0f03ce08cade1f01450556d7c
+The actual value of Key[1][12] is : 6
+
+The value of counter :
+The counter corresponding to the guessed key value - 0 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 1 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 2 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 3 : Get 3 correct pairs
+The counter corresponding to the guessed key value - 4 : Get 3 correct pairs
+The counter corresponding to the guessed key value - 5 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 6 : Get 17 correct pairs
+The counter corresponding to the guessed key value - 7 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 8 : Get 3 correct pairs
+The counter corresponding to the guessed key value - 9 : Get 4 correct pairs
+The counter corresponding to the guessed key value - a : Get 0 correct pairs
+The counter corresponding to the guessed key value - b : Get 3 correct pairs
+The counter corresponding to the guessed key value - c : Get 10 correct pairs
+The counter corresponding to the guessed key value - d : Get 0 correct pairs
+The counter corresponding to the guessed key value - e : Get 0 correct pairs
+The counter corresponding to the guessed key value - f : Get 0 correct pairs
+
+----------------------------
+Number of pairs : 2^22
+Round : 6
+Key: 7efa1c3b6b3284fe16fecf27ee54d9a2
+The actual value of Key[1][12] is : d
+
+The value of counter :
+The counter corresponding to the guessed key value - 0 : Get 5 correct pairs
+The counter corresponding to the guessed key value - 1 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 2 : Get 3 correct pairs
+The counter corresponding to the guessed key value - 3 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 4 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 5 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 6 : Get 3 correct pairs
+The counter corresponding to the guessed key value - 7 : Get 13 correct pairs
+The counter corresponding to the guessed key value - 8 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 9 : Get 2 correct pairs
+The counter corresponding to the guessed key value - a : Get 3 correct pairs
+The counter corresponding to the guessed key value - b : Get 1 correct pairs
+The counter corresponding to the guessed key value - c : Get 0 correct pairs
+The counter corresponding to the guessed key value - d : Get 14 correct pairs
+The counter corresponding to the guessed key value - e : Get 1 correct pairs
+The counter corresponding to the guessed key value - f : Get 3 correct pairs
+
+----------------------------
+Number of pairs : 2^22
+Round : 6
+Key: b6dfffa5e37da4449f6ac8f8636041e5
+The actual value of Key[1][12] is : 4
+
+The value of counter :
+The counter corresponding to the guessed key value - 0 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 1 : Get 4 correct pairs
+The counter corresponding to the guessed key value - 2 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 3 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 4 : Get 14 correct pairs
+The counter corresponding to the guessed key value - 5 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 6 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 7 : Get 3 correct pairs
+The counter corresponding to the guessed key value - 8 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 9 : Get 1 correct pairs
+The counter corresponding to the guessed key value - a : Get 1 correct pairs
+The counter corresponding to the guessed key value - b : Get 4 correct pairs
+The counter corresponding to the guessed key value - c : Get 0 correct pairs
+The counter corresponding to the guessed key value - d : Get 0 correct pairs
+The counter corresponding to the guessed key value - e : Get 13 correct pairs
+The counter corresponding to the guessed key value - f : Get 0 correct pairs
+
+----------------------------
+Number of pairs : 2^22
+Round : 6
+Key: 84aede8a5b83ef371cfb634f9e60c0e1
+The actual value of Key[1][12] is : c
+
+The value of counter :
+The counter corresponding to the guessed key value - 0 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 1 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 2 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 3 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 4 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 5 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 6 : Get 15 correct pairs
+The counter corresponding to the guessed key value - 7 : Get 3 correct pairs
+The counter corresponding to the guessed key value - 8 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 9 : Get 4 correct pairs
+The counter corresponding to the guessed key value - a : Get 0 correct pairs
+The counter corresponding to the guessed key value - b : Get 5 correct pairs
+The counter corresponding to the guessed key value - c : Get 16 correct pairs
+The counter corresponding to the guessed key value - d : Get 0 correct pairs
+The counter corresponding to the guessed key value - e : Get 1 correct pairs
+The counter corresponding to the guessed key value - f : Get 0 correct pairs
+
+----------------------------
+Number of pairs : 2^22
+Round : 6
+Key: 55cc4aad6bd930e90a5f43e8e2ebe4ea
+The actual value of Key[1][12] is : e
+
+The value of counter :
+The counter corresponding to the guessed key value - 0 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 1 : Get 9 correct pairs
+The counter corresponding to the guessed key value - 2 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 3 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 4 : Get 13 correct pairs
+The counter corresponding to the guessed key value - 5 : Get 3 correct pairs
+The counter corresponding to the guessed key value - 6 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 7 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 8 : Get 4 correct pairs
+The counter corresponding to the guessed key value - 9 : Get 3 correct pairs
+The counter corresponding to the guessed key value - a : Get 1 correct pairs
+The counter corresponding to the guessed key value - b : Get 7 correct pairs
+The counter corresponding to the guessed key value - c : Get 4 correct pairs
+The counter corresponding to the guessed key value - d : Get 0 correct pairs
+The counter corresponding to the guessed key value - e : Get 15 correct pairs
+The counter corresponding to the guessed key value - f : Get 1 correct pairs
+
+----------------------------
+Number of pairs : 2^22
+Round : 6
+Key: 400fa530fbd9a83389dd9b06f0ca5dfc
+The actual value of Key[1][12] is : 5
+
+The value of counter :
+The counter corresponding to the guessed key value - 0 : Get 5 correct pairs
+The counter corresponding to the guessed key value - 1 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 2 : Get 5 correct pairs
+The counter corresponding to the guessed key value - 3 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 4 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 5 : Get 21 correct pairs
+The counter corresponding to the guessed key value - 6 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 7 : Get 4 correct pairs
+The counter corresponding to the guessed key value - 8 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 9 : Get 1 correct pairs
+The counter corresponding to the guessed key value - a : Get 6 correct pairs
+The counter corresponding to the guessed key value - b : Get 1 correct pairs
+The counter corresponding to the guessed key value - c : Get 0 correct pairs
+The counter corresponding to the guessed key value - d : Get 0 correct pairs
+The counter corresponding to the guessed key value - e : Get 0 correct pairs
+The counter corresponding to the guessed key value - f : Get 7 correct pairs
+
+----------------------------
+Number of pairs : 2^22
+Round : 6
+Key: 7c5dbf117cb43674482b05d555db57b2
+The actual value of Key[1][12] is : 5
+
+The value of counter :
+The counter corresponding to the guessed key value - 0 : Get 3 correct pairs
+The counter corresponding to the guessed key value - 1 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 2 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 3 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 4 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 5 : Get 16 correct pairs
+The counter corresponding to the guessed key value - 6 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 7 : Get 3 correct pairs
+The counter corresponding to the guessed key value - 8 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 9 : Get 0 correct pairs
+The counter corresponding to the guessed key value - a : Get 7 correct pairs
+The counter corresponding to the guessed key value - b : Get 1 correct pairs
+The counter corresponding to the guessed key value - c : Get 0 correct pairs
+The counter corresponding to the guessed key value - d : Get 0 correct pairs
+The counter corresponding to the guessed key value - e : Get 1 correct pairs
+The counter corresponding to the guessed key value - f : Get 15 correct pairs
+
+----------------------------
+Number of pairs : 2^22
+Round : 6
+Key: 184133a0bcfe32258c99dea0de1ef31c
+The actual value of Key[1][12] is : f
+
+The value of counter :
+The counter corresponding to the guessed key value - 0 : Get 7 correct pairs
+The counter corresponding to the guessed key value - 1 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 2 : Get 5 correct pairs
+The counter corresponding to the guessed key value - 3 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 4 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 5 : Get 13 correct pairs
+The counter corresponding to the guessed key value - 6 : Get 3 correct pairs
+The counter corresponding to the guessed key value - 7 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 8 : Get 4 correct pairs
+The counter corresponding to the guessed key value - 9 : Get 0 correct pairs
+The counter corresponding to the guessed key value - a : Get 1 correct pairs
+The counter corresponding to the guessed key value - b : Get 3 correct pairs
+The counter corresponding to the guessed key value - c : Get 1 correct pairs
+The counter corresponding to the guessed key value - d : Get 4 correct pairs
+The counter corresponding to the guessed key value - e : Get 2 correct pairs
+The counter corresponding to the guessed key value - f : Get 17 correct pairs
+
+----------------------------
+Number of pairs : 2^22
+Round : 6
+Key: 4dab1e9912daf180700835d1da482993
+The actual value of Key[1][12] is : 2
+
+The value of counter :
+The counter corresponding to the guessed key value - 0 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 1 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 2 : Get 21 correct pairs
+The counter corresponding to the guessed key value - 3 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 4 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 5 : Get 3 correct pairs
+The counter corresponding to the guessed key value - 6 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 7 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 8 : Get 10 correct pairs
+The counter corresponding to the guessed key value - 9 : Get 2 correct pairs
+The counter corresponding to the guessed key value - a : Get 0 correct pairs
+The counter corresponding to the guessed key value - b : Get 1 correct pairs
+The counter corresponding to the guessed key value - c : Get 1 correct pairs
+The counter corresponding to the guessed key value - d : Get 2 correct pairs
+The counter corresponding to the guessed key value - e : Get 2 correct pairs
+The counter corresponding to the guessed key value - f : Get 7 correct pairs
+
+----------------------------
+Number of pairs : 2^22
+Round : 6
+Key: b2f5fefd16177348313d9a4b65930d43
+The actual value of Key[1][12] is : 0
+
+The value of counter :
+The counter corresponding to the guessed key value - 0 : Get 7 correct pairs
+The counter corresponding to the guessed key value - 1 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 2 : Get 6 correct pairs
+The counter corresponding to the guessed key value - 3 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 4 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 5 : Get 6 correct pairs
+The counter corresponding to the guessed key value - 6 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 7 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 8 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 9 : Get 1 correct pairs
+The counter corresponding to the guessed key value - a : Get 13 correct pairs
+The counter corresponding to the guessed key value - b : Get 2 correct pairs
+The counter corresponding to the guessed key value - c : Get 0 correct pairs
+The counter corresponding to the guessed key value - d : Get 2 correct pairs
+The counter corresponding to the guessed key value - e : Get 0 correct pairs
+The counter corresponding to the guessed key value - f : Get 2 correct pairs
+
+----------------------------
+Number of pairs : 2^22
+Round : 6
+Key: 73bd38cb563b0ce975bd3e176f1b513e
+The actual value of Key[1][12] is : 5
+
+The value of counter :
+The counter corresponding to the guessed key value - 0 : Get 8 correct pairs
+The counter corresponding to the guessed key value - 1 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 2 : Get 4 correct pairs
+The counter corresponding to the guessed key value - 3 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 4 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 5 : Get 10 correct pairs
+The counter corresponding to the guessed key value - 6 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 7 : Get 3 correct pairs
+The counter corresponding to the guessed key value - 8 : Get 4 correct pairs
+The counter corresponding to the guessed key value - 9 : Get 0 correct pairs
+The counter corresponding to the guessed key value - a : Get 2 correct pairs
+The counter corresponding to the guessed key value - b : Get 0 correct pairs
+The counter corresponding to the guessed key value - c : Get 1 correct pairs
+The counter corresponding to the guessed key value - d : Get 0 correct pairs
+The counter corresponding to the guessed key value - e : Get 2 correct pairs
+The counter corresponding to the guessed key value - f : Get 16 correct pairs
+
+----------------------------
+Number of pairs : 2^22
+Round : 6
+Key: 64424a1770a765146da918e8973e50ea
+The actual value of Key[1][12] is : 5
+
+The value of counter :
+The counter corresponding to the guessed key value - 0 : Get 7 correct pairs
+The counter corresponding to the guessed key value - 1 : Get 2 correct pairs
+The counter corresponding to the guessed key value - 2 : Get 5 correct pairs
+The counter corresponding to the guessed key value - 3 : Get 0 correct pairs
+The counter corresponding to the guessed key value - 4 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 5 : Get 18 correct pairs
+The counter corresponding to the guessed key value - 6 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 7 : Get 1 correct pairs
+The counter corresponding to the guessed key value - 8 : Get 3 correct pairs
+The counter corresponding to the guessed key value - 9 : Get 0 correct pairs
+The counter corresponding to the guessed key value - a : Get 3 correct pairs
+The counter corresponding to the guessed key value - b : Get 0 correct pairs
+The counter corresponding to the guessed key value - c : Get 0 correct pairs
+The counter corresponding to the guessed key value - d : Get 0 correct pairs
+The counter corresponding to the guessed key value - e : Get 0 correct pairs
+The counter corresponding to the guessed key value - f : Get 13 correct pairs

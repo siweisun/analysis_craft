@@ -1,0 +1,16 @@
+Data: 2^48
+Key
+
+Correct pairs: 
+
+tweak: d8e94bb7bf06b1ee
+p0: bd3f8b6411e6842c, c0: 4f55f581f01ecc18,
+p1: bd9f8bc411ec8e2c, c1: 4f48f521f0f4c618
+-------------------------------------------------------
+tweak: 69e96bb2bd80bfee
+p0: e240c8a39c72c238, c0: bfdb5f91e3bcad40, 
+p1: e2e0c8039c78c838, c1: bf2a5f01e3e6a740
+-------------------------------------------------------
+tweak: 27e2fbb0b455bc3e
+p0: b89121d27556caf2, c0: 8f4ff2ad6321023a, 
+p1: b8312172755cc0f2, c1: 8fa9f2ed637b083a
