@@ -1,4 +1,7 @@
-This repository contains the codes for verifying the distinguishers of CRAFT (https://tosc.iacr.org/index.php/ToSC/article/view/7396). The verified distinguishers are listed as follows:
+This repository contains the codes for verifying the distinguishers of CRAFT (https://tosc.iacr.org/index.php/ToSC/article/view/7396) presented in our paper "Differential Attacks on CRAFT Exploiting the Involutory S-boxes and
+Tweak Additions" which was accepted to ToSC 2020 Issue 3 / FSE 2021. 
+
+The verified distinguishers are listed as follows:
 
 - A 6-round single-key differential distinguisher  (`verification_6r.cpp`)
 - An 8-round single-key differential distinguisher  (`verification_8r.cpp`)
